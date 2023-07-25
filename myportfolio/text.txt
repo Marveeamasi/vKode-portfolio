@@ -1,0 +1,4 @@
+font-family: 'Roboto', sans-serif;
+font-family: 'Rubik 80s Fade', cursive;
+font-family: 'Square Peg', cursive;
+font-family: 'Urbanist', sans-serif;
